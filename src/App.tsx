@@ -18,7 +18,7 @@ useEffect(() => {
 }, [])
 return (
     <>
-    <div>TERE</div>
+      <h1>Produtos</h1>
     {
       produtos.map((produto) => (
       <div key={produto.id}>
