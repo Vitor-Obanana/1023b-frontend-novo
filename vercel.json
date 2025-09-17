@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+        {"source": "/api/:path*", "destination": "https://one023b-backend-novo-aqd7.onrender.com:path*" }
+    ]
+}
